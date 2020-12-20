@@ -1,0 +1,7 @@
+sdbkjas 22222222 25 Female
+raashi 22222222 20 Female
+siddarth 33333333 45 Others
+ramesh 44444444 23 Male
+sushmitha 66666666 18 Female
+ravi 77777777 28 Male
+divya 88888888 25 Female
