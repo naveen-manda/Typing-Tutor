@@ -1,2 +1,3 @@
 # Typinng-Tutor
 A tool that can help in improving typing and reading speed
+Having a good command over typing and reading comprehension can turn out to be really helpful for any professional or student. Our aim is to create a tool which helps the user to enhance these skills.  A tool which will not only show you how well you performed, but also tracks it and gives you relevant  feedback. Moreover you can compete with others and look at their performances as well. This tool includes multiple logins User has to login with one’s name and when the same user is logging in several times, his/her performance is tracked and a feedback is given accordingly.
